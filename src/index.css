@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+@import "tailwindcss";
+@theme {
+  /* Define your new color name and optional palette */
+  --color-greybg: #0e0e0e;
+  --color-greytext: #717275 ;
+  --font-crimson: "Crimson Pro", "serif"; 
+  --breakpoint-4k: 160rem;
+  --breakpoint-hd: 100rem;
+  --breakpoint-mobile: 120rem;
+
+}
+
+
+
