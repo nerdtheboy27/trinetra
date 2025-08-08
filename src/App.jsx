@@ -1,4 +1,4 @@
-
+import Margin from './components/Margin';
 import Hero from './screens/Hero'
 import './App.css'
 import Work from './screens/Work';
@@ -10,6 +10,7 @@ function App() {
 
   return (
     <>
+
     <Hero />
     <Work/>
     <Services/>

@@ -1,13 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
 @import "tailwindcss";
 @theme {
   /* Define your new color name and optional palette */
   --color-greybg: #0e0e0e;
   --color-greytext: #717275 ;
-  --font-crimson: "Crimson Pro", "serif"; 
+  --font-crimson: "Dm Sans", "sans-serif"; 
   --breakpoint-4k: 160rem;
   --breakpoint-hd: 100rem;
   --breakpoint-mobile: 120rem;
+  --font-weight-thin: 150;
 
 }
 
